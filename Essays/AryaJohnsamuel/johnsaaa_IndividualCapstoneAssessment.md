@@ -1,8 +1,12 @@
-# Arya Johnsamuel
-## CS 5001
-### Professor Annexstein
+#### Arya Johnsamuel
+
+#### CS 5001
+
+#### Professor Annexstein
+
 #### 09/09/2023
-##### Individual Capstone Assessment
+
+# <center>Individual Capstone Assessment</center>
 
 For the senior design project, I wanted to go all out and try to make something game-changing and innovative. Which is why I now introduce our senior design project which entails the use of a music sharing app. If you think about it there really is no app with the utilization of social media that allows people to be able to share music with each other. However, by creating a fun intuitive way that could be made more efficient with the help of app development I plan to solve this problem. This is a problem that I am planning on tackling with the help of my senior design team to make sure the product quality is as great as we can make it and shows our hard work and effort. In order to give people the possibility to share their favorite songs with friends while streaming music on the same app.
 
@@ -13,4 +17,3 @@ Next, looking into my previous coop experiences there are definitely takeaways t
 In terms of the gameplan I think primarily we want to work on designing a good front end UI for the app and making sure we have a backend able to handle our requests properly. The reasoning is I believe it will be very important before we start to make sure our app is built on a solid foundation to allow us to really expand on it. So, figuring out the platform and mastering the platform of the app development will be two big keys in getting the most out of the app. Then depending on what the possible use cases are I am going to try to use machine learning to give the app possibilities to generate recommended songs to listen to and other features that are possible to create within the app. However, this is more to be determined still and will really depend on how big the scale of the project is and how much time we have to create a feature like this. In the end we want this app to have a lot of useful features and it is a competition in the real world, so we want people when they feel that there is no reason to use a different app when ours has a lot of the same features and more to it.
 
 I am very excited to work on this project as I really believe that this could be an app that a lot of people might use and potentially become a big deal. I would be very excited if that happens but even if it doesn’t this project is really going to push the limits of what I can do and make me have to go beyond to really be effective and make this project as great as it can be. I believe that I can do just that and make an excellent project to add to my portfolio later on that can really help showcase my technical skills at a very high level. In terms of what I expect out of this project I think our team is capable enough to create it to a proficient level. However, I do think it will take a lot out of our team to hopefully be able to implement machine learning and make a UI appealing enough to compete with social media apps like Instagram and Spotify. Also, I think there is a chance this app will become bigger than we imagined and may take over as there really is no music sharing app out there yet and knowing how big of an industry music is right now I think it has potential to reach a really wide audience.
-
