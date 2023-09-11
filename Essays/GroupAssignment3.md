@@ -7,7 +7,7 @@
 - Morgan Weltzer (Email: [weltzeme@mail.uc.edu](mailto:weltzeme@mail.uc.edu))
 
 ## Meeting Time
-- Mondays, 3pm
+- Mondays, 2:45pm
 
 ## Team Roles
 - Arya Johnsamuel: Backend Development
