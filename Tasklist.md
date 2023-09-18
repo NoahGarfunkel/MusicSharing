@@ -8,3 +8,8 @@
 - Alex House Determine the flow and information needed for a user to post
 - Alex House Design a system for user-to-user communication.
 - Alex House Develop a well-designed Database system to store data.
+- Morgan Weltzer 1. Design UI/UX mockup layouts using Figma and user research.
+- Morgan Weltzer 2. Validate app usability with documented user research.
+- Morgan Weltzer 3. Research effort it would take to create both a mobile and web app and determine what is feasible within our timeline.
+- Morgan Weltzer 4. Research best practices for designing UI with disabilities in mind to increase usability.
+- Morgan Weltzer 5. Research copyright and fair use with using Spotify’s API and artists’ music.
