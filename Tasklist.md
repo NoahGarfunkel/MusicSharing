@@ -3,3 +3,8 @@
 - Noah Garfunkel 3. Research and Specify how we will integrate songs/albums, etc. into our application
 - Noah Garfunkel 4. Design code project organization and tech stack 
 - Noah Garfunkel 5. Develop post viewing page
+- Alex House Research what kind of stack would work best for this app
+- Alex House Design User/Account processes (I.e. creating accounts, updating info, following other accounts etc.)
+- Alex House Determine the flow and information needed for a user to post
+- Alex House Design a system for user-to-user communication.
+- Alex House Develop a well-designed Database system to store data.
