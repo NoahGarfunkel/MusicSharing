@@ -13,3 +13,8 @@
 - Morgan Weltzer 3. Research effort it would take to create both a mobile and web app and determine what is feasible within our timeline.
 - Morgan Weltzer 4. Research best practices for designing UI with disabilities in mind to increase usability.
 - Morgan Weltzer 5. Research copyright and fair use with using Spotify’s API and artists’ music.
+- Arya Johnsamuel Investigate potential use cases of using machine learning or generative Ai in the app.
+- Arya Johnsamuel Research how social media stores data
+- Arya Johnsamuel Design QoL features in the app that may enhance the user’s experience.
+- Arya Johnsamuel Test that features working in the backend are properly working when moved to a pre deployment stage.
+- Arya Johnsamuel  Research some form of data analytics.
