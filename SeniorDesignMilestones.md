@@ -63,18 +63,13 @@
 
 | Primary Member Responsible | Task/Milestone                                                  | Effort Prediction |
 |---------------------------|----------------------------------------------------------------|-------------------|
-| Noah Garfunkel            | Design and implement application page flow                      | Noah – 40%        |
-|                           |                                                                | Arya – 15%        |
-|                           |                                                                | Morgan – 15%      |
-|                           |                                                                | Alex – 15%        |
-| Noah Garfunkel            | Investigate and implement Spotify TypeScript SDK                | Noah – 100%       |
-| Noah Garfunkel            | Research and Specify how we will integrate songs/albums, etc. into our application | Noah – 50% |
-|                           |                                                                | Alex – 50%        |
-| Noah Garfunkel            | Design code project organization and tech stack (front end)     | Noah – 50%        |
-|                           |                                                                | Morgan – 50%      |
-| Noah Garfunkel            | Develop post viewing page                                        | Noah – 50%        |
-|                           |                                                                | Morgan – 50%      |
-| Noah Garfunkel            | Research mobile app feasibility                                  | Noah – 100%       |
+| Noah Garfunkel            | Design and implement application page flow                      | Noah – 40% Arya – 15% Morgan – 15% Alex – 15% |
+| Noah Garfunkel            | Investigate and implement Spotify TypeScript SDK                | Noah – 100% |
+| Noah Garfunkel            | Research and Specify how we will integrate songs/albums, etc. into our application | Noah – 50% Alex – 50% |
+| Noah Garfunkel            | Design code project organization and tech stack (front end)     | Noah – 50% |
+|                           |                                                                | Morgan – 50% |
+| Noah Garfunkel            | Develop post viewing page                                        | Noah – 50% |
+|                           |                                                                | Morgan – 50% Noah – 100%       |
 | Alex House                | Research what kind of stack would work best for this app       | Alex – 50%        |
 |                           |                                                                | Arya – 50%        |
 | Alex House                | Design User/Account processes (Creating accounts, updating info, following other accounts, etc.) | Alex – 70% |
