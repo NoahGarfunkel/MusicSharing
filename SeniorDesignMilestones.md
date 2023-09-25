@@ -66,12 +66,10 @@
 | Noah Garfunkel            | Design and implement application page flow                      | Noah – 40%, Arya – 15%, Morgan – 15%, Alex – 15% |
 | Noah Garfunkel            | Investigate and implement Spotify TypeScript SDK                | Noah – 100% |
 | Noah Garfunkel            | Research and Specify how we will integrate songs/albums, etc. into our application | Noah – 50%, Alex – 50% |
-| Noah Garfunkel            | Design code project organization and tech stack (front end)     | Noah – 50% |
-|                           |                                                                | Morgan – 50% |
-| Noah Garfunkel            | Develop post viewing page                                        | Noah – 50% |
-|                           |                                                                | Morgan – 50%, Noah – 100%       |
-| Alex House                | Research what kind of stack would work best for this app       | Alex – 50%        |
-|                           |                                                                | Arya – 50%        |
+| Noah Garfunkel            | Design code project organization and tech stack (front end)     | Noah – 50%, Morgan – 50% |
+| Noah Garfunkel            | Develop post viewing page                                        | Noah – 50%, Morgan – 50% |
+| Noah Garfunkel            | Research mobile app feasibility                                      | Noah – 100% |
+| Alex House                | Research what kind of stack would work best for this app       | Alex – 50%, Arya – 50%        |
 | Alex House                | Design User/Account processes (Creating accounts, updating info, following other accounts, etc.) | Alex – 70%, Arya – 30%        |
 | Alex House                | Determine the flow and information needed for a user to post   | Alex – 40%, Noah – 20%,  Arya – 20%, Morgan – 20% |
 | Alex House                | Design a system for user-to-user communication                  | Alex – 50%, Arya – 50%        |
@@ -80,4 +78,9 @@
 | Morgan Weltzer            | Validate app usability with documented user research            | Morgan – 70%, Noah – 30%        |
 | Morgan Weltzer            | Research effort required to create both a mobile and web app and determine feasibility within our timeline | Morgan – 70%, Noah – 10%, Arya – 10%, Alex – 10%        |
 | Morgan Weltzer            | Research best practices for designing UI with disabilities in mind to increase usability | Morgan – 80%, Noah – 20%        |
-| Morgan Weltzer            | Research copyright
+| Morgan Weltzer            | Research copyright and fair use with using Spotify’s API and artists’ music.  | Morgan – 100% |
+| Arya Johnsamuel            | Investigate potential use cases of using machine learning or generative Ai in the app.   | Arya – 100%  |
+| Arya Johnsamuel            | Research how social media stores data    | Arya – 75%, Alex - 25%  |
+| Arya Johnsamuel            | Implementing features using ML/generative Ai    | Arya – 100%  |
+| Arya Johnsamuel            | Test that features working in the backend are properly working when moved to a pre deployment stage.    | Arya – 55%, Alex - 45%  |
+| Arya Johnsamuel            | Research some form of data analytics.    | Arya – 64%, Alex - 36%  |
