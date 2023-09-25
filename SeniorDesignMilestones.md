@@ -63,30 +63,21 @@
 
 | Primary Member Responsible | Task/Milestone                                                  | Effort Prediction |
 |---------------------------|----------------------------------------------------------------|-------------------|
-| Noah Garfunkel            | Design and implement application page flow                      | Noah – 40% Arya – 15% Morgan – 15% Alex – 15% |
+| Noah Garfunkel            | Design and implement application page flow                      | Noah – 40%, Arya – 15%, Morgan – 15%, Alex – 15% |
 | Noah Garfunkel            | Investigate and implement Spotify TypeScript SDK                | Noah – 100% |
-| Noah Garfunkel            | Research and Specify how we will integrate songs/albums, etc. into our application | Noah – 50% Alex – 50% |
+| Noah Garfunkel            | Research and Specify how we will integrate songs/albums, etc. into our application | Noah – 50%, Alex – 50% |
 | Noah Garfunkel            | Design code project organization and tech stack (front end)     | Noah – 50% |
 |                           |                                                                | Morgan – 50% |
 | Noah Garfunkel            | Develop post viewing page                                        | Noah – 50% |
-|                           |                                                                | Morgan – 50% Noah – 100%       |
+|                           |                                                                | Morgan – 50%, Noah – 100%       |
 | Alex House                | Research what kind of stack would work best for this app       | Alex – 50%        |
 |                           |                                                                | Arya – 50%        |
-| Alex House                | Design User/Account processes (Creating accounts, updating info, following other accounts, etc.) | Alex – 70% |
-|                           |                                                                | Arya – 30%        |
-| Alex House                | Determine the flow and information needed for a user to post   | Alex – 40% Noah – 20%  Arya – 20% Morgan – 20% |
-| Alex House                | Design a system for user-to-user communication                  | Alex – 50%        |
-|                           |                                                                | Arya – 50%        |
-| Alex House                | Develop a well-designed Database system to store data           | Alex – 70%        |
-|                           |                                                                | Arya – 30%        |
-| Morgan Weltzer            | Design UI/UX mockup layouts using Figma and user research       | Morgan – 50%      |
-|                           |                                                                | Noah – 50%        |
-| Morgan Weltzer            | Validate app usability with documented user research            | Morgan – 70%      |
-|                           |                                                                | Noah – 30%        |
-| Morgan Weltzer            | Research effort required to create both a mobile and web app and determine feasibility within our timeline | Morgan – 70% |
-|                           |                                                                | Noah – 10%        |
-|                           |                                                                | Arya – 10%        |
-|                           |                                                                | Alex – 10%        |
-| Morgan Weltzer            | Research best practices for designing UI with disabilities in mind to increase usability | Morgan – 80% |
-|                           |                                                                | Noah – 20%        |
+| Alex House                | Design User/Account processes (Creating accounts, updating info, following other accounts, etc.) | Alex – 70%, Arya – 30%        |
+| Alex House                | Determine the flow and information needed for a user to post   | Alex – 40%, Noah – 20%,  Arya – 20%, Morgan – 20% |
+| Alex House                | Design a system for user-to-user communication                  | Alex – 50%, Arya – 50%        |
+| Alex House                | Develop a well-designed Database system to store data           | Alex – 70%, Arya – 30%        |
+| Morgan Weltzer            | Design UI/UX mockup layouts using Figma and user research       | Morgan – 50%, Noah – 50%        |
+| Morgan Weltzer            | Validate app usability with documented user research            | Morgan – 70%, Noah – 30%        |
+| Morgan Weltzer            | Research effort required to create both a mobile and web app and determine feasibility within our timeline | Morgan – 70%, Noah – 10%, Arya – 10%, Alex – 10%        |
+| Morgan Weltzer            | Research best practices for designing UI with disabilities in mind to increase usability | Morgan – 80%, Noah – 20%        |
 | Morgan Weltzer            | Research copyright
