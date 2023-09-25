@@ -79,10 +79,7 @@
 |                           |                                                                | Arya – 50%        |
 | Alex House                | Design User/Account processes (Creating accounts, updating info, following other accounts, etc.) | Alex – 70% |
 |                           |                                                                | Arya – 30%        |
-| Alex House                | Determine the flow and information needed for a user to post   | Alex – 40%        |
-|                           |                                                                | Noah – 20%        |
-|                           |                                                                | Arya – 20%        |
-|                           |                                                                | Morgan – 20%      |
+| Alex House                | Determine the flow and information needed for a user to post   | Alex – 40% Noah – 20%  Arya – 20% Morgan – 20% |
 | Alex House                | Design a system for user-to-user communication                  | Alex – 50%        |
 |                           |                                                                | Arya – 50%        |
 | Alex House                | Develop a well-designed Database system to store data           | Alex – 70%        |
