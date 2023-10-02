@@ -1,30 +1,3 @@
-<style>
-/* Set the font and line spacing */
-body {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 12pt;
-    line-height: 2;
-}
-
-/* Set heading styles */
-h1 {
-    font-size: 24pt;
-    font-weight: bold;
-    text-align: center;
-}
-
-h2 {
-    font-size: 18pt;
-    font-weight: bold;
-}
-
-/* Set paragraph margins */
-p {
-    margin-bottom: 0.5em;
-}
-
-</style>
-
 # Project Constraints Essay
 
 Our app will not be a public service or a non-profit. Instead, it will be a for-profit social media app designed to provide entertainment and social connectivity for the public. While music sharing is already possible through sharing links, we hope to integrate it into our app in a way that is not mainstream, where you can share music like we share text posts on Twitter or photos on Instagram. By focusing more on sharing music media, we can tailor the app to present information specifically for a single expected format. It will enhance people’s lives by giving them more fulfillment and accessibility to sharing the music they like to listen to. It can also give artists empowerment to spread information about their work to their fans, or even find new fans.
