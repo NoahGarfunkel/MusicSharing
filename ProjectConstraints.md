@@ -1,11 +1,7 @@
-## Project Constraints Essay
+# Project Constraints Essay
 
 Our app will not be a public service or a non-profit. Instead, it will be a for-profit social media app designed to provide entertainment and social connectivity for the public. While music sharing is already possible through sharing links, we hope to integrate it into our app in a way that is not mainstream, where you can share music like we share text posts on Twitter or photos on Instagram. By focusing more on sharing music media, we can tailor the app to present information specifically for a single expected format. It will enhance people’s lives by giving them more fulfillment and accessibility to sharing the music they like to listen to. It can also give artists empowerment to spread information about their work to their fans, or even find new fans.
 
-### Legal Considerations
-
 When creating a music sharing app that in a way integrates Spotify, there may be many legal considerations that should be considered. For example, we need to be aware of copyright and licensing issues that may arise with the app. When streaming copyrighted music without having the licenses it can potentially result in people taking legal action against the app, which could become very serious. So, if we do plan to integrate Spotify within the app, we must ensure that the app complies with Spotify’s TOS (Terms of Service) and any applicable copyright laws. Then we also need to make sure that since the app could be collecting user data such as music preferences, it complies with data protection regulations.
-
-### Technical Dependencies
 
 Looking more at the tech side of our application, we don’t have all of our resource details figured out yet, but in the end, there will be some sort of economic dependency. We have been interested in using cloud-based resources such as Azure, which always comes with some sort of cost. Going this route, we would eventually have all of our resources on their platform, which we would be paying for independently. If we went with a more physical, on-premises route of physical server hosting, we might still need to pay for hosting the app and saving our data unless we have access to servers through UC or a personal connection to use. Regardless of the approach, we would be funding our application personally.
