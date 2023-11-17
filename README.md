@@ -20,7 +20,7 @@
 
 # User Stories and Design Diagrams (Assignment #4)
 
-## User Stories
+## [User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
 User_Stories.md
 [List of user stories]
 
