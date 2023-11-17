@@ -21,9 +21,11 @@ Members: Noah Garfunkel garfunns@mail.uc.edu, Arya Johnsamuel johnsaaa@mail.uc.e
 Project Area: Working on an app related to Spotify that is used to share favorite songs and albums to friends sort of in a social media format. (App/Web Dev)
 ---
 
-# User Stories and Design Diagrams (Assignment #4)
+# User Stories
 
 ## [User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
+
+# Design Diagrams
 
 ## [Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
 
