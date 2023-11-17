@@ -85,8 +85,3 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 # Appendix
 
-[Include appropriate references, citations, links to code repositories, and meeting notes]
-
----
-
-**Note:** Ensure there is evidence justifying 45 hours of effort for each team member.
