@@ -12,9 +12,9 @@ We are creating a music sharing app with the integration of Spotify's API. This 
 
 ---
 
-# Project Description (Assignment #2)
+# Project Description
 
-Team Name: Not sure yet
+Team Name: Music Sharing
 
 Members: Noah Garfunkel garfunns@mail.uc.edu, Arya Johnsamuel johnsaaa@mail.uc.edu,  Alex House houseah@mail.uc.edu, Morgan Weltzer weltzeme@mail.uc.edu
 
