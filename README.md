@@ -60,7 +60,6 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 # Self-Assessment Essays
 
-[Individual self-assessment essays]
 - [Arya Johnsamuel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AryaJohnsamuel/johnsaaa_IndividualCapstoneAssessment.md)
 - [Noah Garfunkel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/NoahGarfunkel/Assignment3Individual.md)
 - [Alex House](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AlexHouse/Assignment3-Individual.md)
@@ -70,7 +69,6 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 # Professional Biographies (Assignment #1)
 
-[Professional biographies of team members]
 - [Arya Johnsamuel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AryaJohnsamuel/johnsaaa_ProfessionalBiography.md)
 - [Noah Garfunkel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/NoahGarfunkel/Assignment1.md)
 - [Alex House](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AlexHouse/ProfessionalBiography.md)
