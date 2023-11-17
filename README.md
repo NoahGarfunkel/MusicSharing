@@ -1,6 +1,6 @@
 # [Team Information](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/GroupAssignment3.md)
 
-**Team Member:** Noah Garfunkel, Alex House, Arya Johnsamuel, Morgan Weltzer
+**Team Members:** Noah Garfunkel, Alex House, Arya Johnsamuel, Morgan Weltzer
 
 **Advisor:** Aurisano
 
