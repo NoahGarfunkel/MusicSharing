@@ -20,7 +20,6 @@ We are creating a music sharing app with the integration of Spotify's API. This 
 # User Stories and Design Diagrams (Assignment #4)
 
 ## [User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
-User_Stories.md
 
 ## [Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
 
