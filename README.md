@@ -26,27 +26,6 @@ User_Stories.md
 
 ## [Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
 
-### Level 0
-
-[Description of Level 0 diagram]
-
-### Level 1
-
-[Description of Level 1 diagram]
-
-### Level 2
-
-[Description of Level 2 diagram]
-
-### Description of the Diagrams
-
-- **Conventions:** [Explain the conventions used]
-- **Purpose:**
-  - Level 0: [Brief description]
-  - Level 1: [Brief description]
-  - Level 2: [Brief description]
-
----
 
 # Project Tasks and Timeline (Assignment #5-6)
 
