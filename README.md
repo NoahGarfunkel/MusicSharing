@@ -90,5 +90,9 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 # Appendix
 [Frontend Repository](https://github.com/NoahGarfunkel/MusicSharingFrontEnd)
 
+Noah:
+
+Throughout the semester I have made progress through research on android development and Jetpack Compose to create our frontend project and start work on the login screen. This work can also be seen in the front end repository.
+
 ![Noah Work](https://cdn.discordapp.com/attachments/1146505422275084333/1169461265383575603/image.png?ex=6567f1ad&is=65557cad&hm=1dc4fc74da624ba29ebcbc41d1ff0dd0656a9e84a3a2dbad60dc0c3955a186e7&)
 
