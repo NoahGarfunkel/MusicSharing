@@ -85,6 +85,8 @@ There was no compensation for this project nor a budget required.
 # Appendix
 [Frontend Repository](https://github.com/NoahGarfunkel/MusicSharingFrontEnd)
 
+[Backend Repository](https://github.com/HouseAlex/Music-Sharing-API)
+
 Noah:
 
 Throughout the semester I have made progress through research on android development and Jetpack Compose to create our frontend project and start work on the login screen. This work can also be seen in the front end repository.
