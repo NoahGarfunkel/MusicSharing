@@ -38,11 +38,11 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 ## Timeline
 
-[Project timeline]
+[Project timeline](https://github.com/NoahGarfunkel/MusicSharing/blob/main/SeniorDesignMilestones.md)
 
 ## Effort Matrix
 
-[Effort matrix detailing individual contributions]
+[Effort matrix detailing individual contributions](https://github.com/NoahGarfunkel/MusicSharing/blob/main/SeniorDesignMilestones.md)
 
 ---
 
