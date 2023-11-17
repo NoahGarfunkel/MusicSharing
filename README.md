@@ -14,7 +14,6 @@ We are creating a music sharing app with the integration of Spotify's API. This 
 
 # Project Description (Assignment #2)
 
-[Your detailed project description]
 
 ---
 
@@ -22,7 +21,6 @@ We are creating a music sharing app with the integration of Spotify's API. This 
 
 ## [User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
 User_Stories.md
-[List of user stories]
 
 ## [Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
 
@@ -31,7 +29,6 @@ User_Stories.md
 
 ## [Task List](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Tasklist.md)
 
-[List of project tasks]
 
 ## Timeline
 
