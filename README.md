@@ -23,16 +23,16 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 # User Stories
 
-## [User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
+[User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
 
 # Design Diagrams
 
-## [Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
+[Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
 
 
 # Project Tasks and Timeline (Assignment #5-6)
 
-## [Task List](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Tasklist.md)
+[Task List](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Tasklist.md)
 
 
 ## Timeline
