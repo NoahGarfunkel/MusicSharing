@@ -80,10 +80,7 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 # Budget
 
-[Statement of expenses to date or confirmation of no expenses]
-
-**Monetary Value of Donated Items:** [Specify the value]
-**Donation Sources:** [List of sources]
+There was no compensation for this project nor a budget required.
 
 ---
 
