@@ -84,5 +84,5 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 ---
 
 # Appendix
-[Frontend Repo](https://github.com/NoahGarfunkel/MusicSharingFrontEnd)
+[Frontend Repository](https://github.com/NoahGarfunkel/MusicSharingFrontEnd)
 
