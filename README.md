@@ -1,4 +1,4 @@
-# Team Information
+# [Team Information](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/GroupAssignment3.md)
 
 **Team Name:** Musing Sharing
 
