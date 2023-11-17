@@ -48,7 +48,7 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 # ABET Concerns Essay (Assignment #7)
 
-[Your ABET concerns essay]
+[ABET Concerns](https://github.com/NoahGarfunkel/MusicSharing/blob/main/ABET%20Concerns%20Essay.pdf)
 
 ---
 
