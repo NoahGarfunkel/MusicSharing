@@ -24,7 +24,7 @@
 User_Stories.md
 [List of user stories]
 
-## Design Diagrams
+## [Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
 
 ### Level 0
 
