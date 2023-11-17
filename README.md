@@ -50,7 +50,7 @@ User_Stories.md
 
 # Project Tasks and Timeline (Assignment #5-6)
 
-## [Task List](https://github.com/NoahGarfunkel/MusicSharing/blob/8f2902361dd354e055d7b8c732142777b962340e/Tasklist.md)
+## [Task List](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Tasklist.md)
 
 [List of project tasks]
 
