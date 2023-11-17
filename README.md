@@ -8,7 +8,7 @@
 
 # Project Abstract
 
-[Your project abstract within 400 ASCII characters]
+For our senior design project, we are creating a music sharing app with the integration of Spotify's API. This app is revolutionary way to connect with friends and share your favorite songs effortlessly to have a connection you and your friends listen to. Giving users a chance to broaden their music taste, by getting great recommendations from their friends. You can also create your own posts to be able to share music recommendations of your own taste to all your friends. Our app will even potentially allow direct messaging to inquire more about your friend's music tastes or song recommendations if you choose to.
 
 ---
 
