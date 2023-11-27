@@ -97,4 +97,4 @@ Alex:
 
 I have mainly been focused on back-end primarily the research side. Working a lot with backend's designed in entity framework is helping me transfer my knowledge to our python stack but it is mainly taking research to find the best ways and practices to set it up. A lot of the physical work can be seen through the backend repository. The research doc below is just some of the research documented, as we started the doc late in the semester.
 
-![Alex & Arya Research](https://mailuc-my.sharepoint.com/:w:/r/personal/houseah_mail_uc_edu/Documents/CS%20Senior%20Design/Back%20End%20Research.docx?d=wf7c6e6e7f6434685944572f10e703df1&csf=1&web=1&e=lnmT8x)
+[Alex & Arya Research](https://mailuc-my.sharepoint.com/:w:/r/personal/houseah_mail_uc_edu/Documents/CS%20Senior%20Design/Back%20End%20Research.docx?d=wf7c6e6e7f6434685944572f10e703df1&csf=1&web=1&e=lnmT8x)
