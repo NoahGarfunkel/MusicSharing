@@ -43,6 +43,12 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 ---
 
+# Poster
+
+[Poster](https://mailuc-my.sharepoint.com/:p:/r/personal/houseah_mail_uc_edu/_layouts/15/Doc.aspx?sourcedoc=%7B028E0B6B-CD50-46B5-9175-786755C6CD04%7D&file=MusicSharing%20Board.pptx&action=edit&mobileredirect=true)
+
+---
+
 # Fall Self-Assessment Essays
 
 - [Arya Johnsamuel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AryaJohnsamuel/johnsaaa_IndividualCapstoneAssessment.md)
