@@ -22,6 +22,11 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 ---
 
+# User Interface Specification
+[User Interface Specification](https://mailuc-my.sharepoint.com/:p:/g/personal/garfunns_mail_uc_edu/EQU-mS-XhS9JhP-AyPAkCAsB6QqWLBfOAhHO0InHGa9AAw?e=aAdXXE)
+
+---
+
 # User Stories
 
 [User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
