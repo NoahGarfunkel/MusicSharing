@@ -62,7 +62,7 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 - [Arya Johnsamuel]()
 - [Noah Garfunkel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/NoahGarfunkel/FinalSelfAssessment.md)
-- [Alex House]()
+- [Alex House](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AlexHouse/FinalSelfAssessment.md)
 - [Morgan Weltzer](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/MorganWeltzer/FinalSelfAssessment.pdf)
 
 ---
