@@ -63,7 +63,7 @@ There was no compensation for this project nor a budget required.
 # Appendix
 [Frontend Repository](https://github.com/NoahGarfunkel/MusicSharingFrontEnd)
 
-[Backend Repository](https://github.com/HouseAlex/Music-Sharing-API)
+[Backend Repository](https://github.com/HouseAlex/MusicSharing-EF)
 
 Noah:
 
