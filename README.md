@@ -30,6 +30,13 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 # Test Plan
 [Test Plan](https://github.com/NoahGarfunkel/MusicSharing/blob/main/TestPlan.md)
 
+---
+
+# User Manual
+[UserDocs](https://github.com/NoahGarfunkel/MusicSharing/blob/main/UserDocs.md)
+
+---
+
 # PPT Slideshow
 
 [Project Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/houseah_mail_uc_edu/ESPNPLF4Ea1KvG7FPkcR530B2wj7vszJoAHGX-xzwzMK2A?e=U4PAsN)
