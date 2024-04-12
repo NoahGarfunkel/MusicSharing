@@ -18,7 +18,7 @@ Team Name: Music Sharing
 
 Members: Noah Garfunkel garfunns@mail.uc.edu, Arya Johnsamuel johnsaaa@mail.uc.edu,  Alex House houseah@mail.uc.edu, Morgan Weltzer weltzeme@mail.uc.edu
 
-Project Area: Working on an app related to Spotify that is used to share favorite songs and albums to friends sort of in a social media format. (App/Web Dev)
+Project Area: Working on an app related to Spotify that is used to share favorite songs and albums to friends in a social media format. This is a full stack application with a Kotlin frontend, C# backend, and Azure SQL database.
 
 ---
 
