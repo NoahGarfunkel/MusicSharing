@@ -8,7 +8,7 @@
 
 # Project Abstract
 
-We are creating a music sharing app with the integration of Spotify's API. This app is a new way to connect with friends and share your favorite songs effortlessly to have a connection you and your friends listen to. You can also create your own posts to be able to share music recommendations of your own taste to all your friends. 
+We have created a music sharing app with the integration of Spotify's API. This app is a new way to connect with friends and share your favorite songs effortlessly. You can create your own posts, add friends so that you can view their posts, view your customized profile, and login/sign out your authentication with your Spotify account.
 
 ---
 
