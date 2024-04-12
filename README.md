@@ -42,15 +42,6 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 ---
 
-# Professional Biographies (Assignment #1)
-
-- [Arya Johnsamuel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AryaJohnsamuel/johnsaaa_ProfessionalBiography.md)
-- [Noah Garfunkel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/NoahGarfunkel/Assignment1.md)
-- [Alex House](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AlexHouse/ProfessionalBiography.md)
-- [Morgan Weltzer](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/MorganWeltzer/Assignment3Individual.md)
-
----
-
 # Budget
 
 There was no compensation for this project nor a budget required.
