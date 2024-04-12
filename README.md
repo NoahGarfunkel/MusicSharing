@@ -68,10 +68,10 @@ There was no compensation for this project nor a budget required.
 ---
 
 # Summary of Hours and Justification
-Noah Garfunkel: 
-Arya Johnsamuel:
-Morgan Weltzer:
-Alex House:
+- Noah Garfunkel: 
+- Arya Johnsamuel:
+- Morgan Weltzer:
+- Alex House:
 
 ---
 # Appendix
