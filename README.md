@@ -27,18 +27,30 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 ---
 
+# Test Plan
+[Test Plan](https://github.com/NoahGarfunkel/MusicSharing/blob/main/TestPlan.md)
+
 # PPT Slideshow
 
 [Project Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/houseah_mail_uc_edu/ESPNPLF4Ea1KvG7FPkcR530B2wj7vszJoAHGX-xzwzMK2A?e=U4PAsN)
 
 ---
 
-# Self-Assessment Essays
+# Fall Self-Assessment Essays
 
 - [Arya Johnsamuel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AryaJohnsamuel/johnsaaa_IndividualCapstoneAssessment.md)
 - [Noah Garfunkel](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/NoahGarfunkel/Assignment3Individual.md)
 - [Alex House](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/AlexHouse/Assignment3-Individual.md)
 - [Morgan Weltzer](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Essays/MorganWeltzer/Assignment3Individual.md)
+
+---
+
+# Final Self-Assessment Essays
+
+- [Arya Johnsamuel]()
+- [Noah Garfunkel]()
+- [Alex House]()
+- [Morgan Weltzer]()
 
 ---
 
