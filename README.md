@@ -68,7 +68,7 @@ There was no compensation for this project nor a budget required.
 ---
 
 # Summary of Hours and Justification
-- Noah Garfunkel: 
+- Noah Garfunkel: Total of at least 90 hours. Proof of work can be found in these commits: https://github.com/NoahGarfunkel/MusicSharingFrontEnd/commits/master/ Further notes related to work are found scattered in our discord (https://discord.gg/g9VJP75D)
 - Arya Johnsamuel:
 - Morgan Weltzer:
 - Alex House:
