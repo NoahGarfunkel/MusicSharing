@@ -64,15 +64,3 @@ There was no compensation for this project nor a budget required.
 [Frontend Repository](https://github.com/NoahGarfunkel/MusicSharingFrontEnd)
 
 [Backend Repository](https://github.com/HouseAlex/MusicSharing-EF)
-
-Noah:
-
-Throughout the semester I have made progress through research on android development and Jetpack Compose to create our frontend project and start work on the login screen. This work can also be seen in the front end repository.
-
-![Noah Work](https://cdn.discordapp.com/attachments/1146505422275084333/1169461265383575603/image.png?ex=6567f1ad&is=65557cad&hm=1dc4fc74da624ba29ebcbc41d1ff0dd0656a9e84a3a2dbad60dc0c3955a186e7&)
-
-Alex: 
-
-I have mainly been focused on back-end primarily the research side. Working a lot with backend's designed in entity framework is helping me transfer my knowledge to our python stack but it is mainly taking research to find the best ways and practices to set it up. A lot of the physical work can be seen through the backend repository. The research doc below is just some of the research documented, as we started the doc late in the semester.
-
-[Alex & Arya Research](https://mailuc-my.sharepoint.com/:w:/r/personal/houseah_mail_uc_edu/Documents/CS%20Senior%20Design/Back%20End%20Research.docx?d=wf7c6e6e7f6434685944572f10e703df1&csf=1&web=1&e=lnmT8x)
