@@ -27,36 +27,6 @@ Project Area: Working on an app related to Spotify that is used to share favorit
 
 ---
 
-# User Stories
-
-[User Stories](https://github.com/NoahGarfunkel/MusicSharing/blob/main/User_Stories.md)
-
-# Design Diagrams
-
-[Design Diagrams](https://github.com/NoahGarfunkel/MusicSharing/tree/main/Design_Diagrams)
-
-
-# Project Tasks and Timeline
-
-[Task List](https://github.com/NoahGarfunkel/MusicSharing/blob/main/Tasklist.md)
-
-
-## Timeline
-
-[Project timeline](https://github.com/NoahGarfunkel/MusicSharing/blob/main/SeniorDesignMilestones.md)
-
-## Effort Matrix
-
-[Effort matrix detailing individual contributions](https://github.com/NoahGarfunkel/MusicSharing/blob/main/SeniorDesignMilestones.md)
-
----
-
-# ABET Concerns Essay
-
-[ABET Concerns](https://github.com/NoahGarfunkel/MusicSharing/blob/main/ABET%20Concerns%20Essay.pdf)
-
----
-
 # PPT Slideshow
 
 [Project Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/houseah_mail_uc_edu/ESPNPLF4Ea1KvG7FPkcR530B2wj7vszJoAHGX-xzwzMK2A?e=U4PAsN)
